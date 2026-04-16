@@ -1,16 +1,37 @@
-## Hi there 👋
+# Benjamín Barboza
+Hola!
 
-<!--
-**benbarboza/benbarboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy profesional de proyectos en infraestructura digital educativa y trabajo en el Ministerio de Educación de Chile. Me dedico al diseño, seguimiento y análisis de iniciativas vinculadas a conectividad, tecnología y gestión en el sistema educativo.
 
-Here are some ideas to get you started:
+Me interesa el uso de datos para entender mejor estos procesos, aportar a la toma de decisiones y mejorar la ejecución de proyectos públicos, generando información clara y útil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ¿En qué estoy trabajando?
+- Análisis de datos públicos en educación
+- Seguimiento y monitoreo de proyectos
+- Construcción y revisión de indicadores
+- Identificación de brechas territoriales
+- Visualización de información para toma de decisiones
+
+---
+
+## Herramientas
+- R
+- Python
+- SQL
+- Excel
+- Git y GitHub
+
+---
+
+## Proyectos
+
+### Conectividad para la Educación 2030 (en desarrollo)
+
+"Conectividad para la Educación 2030" es una iniciativa del Ministerio de Educación, desarrollada mediante el Centro de Innovación Enlaces de la Subsecretaría de Educación General en articulación con la Subsecretaría de Telecomunicaciones, cuyo objeto es brindar internet gratuita y de calidad a los establecimientos subvencionados del país. Actualmente, el Centro de Innovación entrega información pública respecto del estado de la conectividad de los establecimientos que son beneficiarios a nivel nacional. Con esos datos, el propósito de este repositorio es analizar los datos públicos, lo que incluye:
+
+- Limpieza y estructuración de bases de datos
+- Análisis exploratorio de variables relevantes
+- Construcción de métricas descriptivas
+- Visualización de brechas territoriales
