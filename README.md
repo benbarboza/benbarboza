@@ -11,7 +11,7 @@ Me interesa el uso de datos para entender mejor estos procesos, aportar a la tom
 
 ### Conectividad para la Educación 2030 (en desarrollo)
 
-"Conectividad para la Educación 2030" es una iniciativa del Ministerio de Educación, desarrollada mediante el Centro de Innovación Enlaces de la Subsecretaría de Educación General en articulación con la Subsecretaría de Telecomunicaciones, cuyo objeto es brindar internet gratuita y de calidad a los establecimientos subvencionados del país. Actualmente, el Centro de Innovación entrega información pública respecto del estado de la conectividad de los establecimientos que son beneficiarios a nivel nacional. Con esos datos, el propósito de este repositorio es analizar los datos públicos, lo que incluye:
+["Conectividad para la Educación 2030"](https://conectividad2030.cl/) es una iniciativa del Ministerio de Educación, desarrollada mediante el Centro de Innovación Enlaces de la Subsecretaría de Educación General en articulación con la Subsecretaría de Telecomunicaciones, cuyo objeto es brindar internet gratuita y de calidad a los establecimientos subvencionados del país. Actualmente, el Centro de Innovación entrega información pública respecto del estado de la conectividad de los establecimientos que son beneficiarios a nivel nacional. Con esos datos, el propósito de este repositorio es analizar los datos públicos, lo que incluye:
 
 - Limpieza y estructuración de bases de datos
 - Análisis exploratorio de variables relevantes
