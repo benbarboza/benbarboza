@@ -7,24 +7,6 @@ Me interesa el uso de datos para entender mejor estos procesos, aportar a la tom
 
 ---
 
-## ¿En qué estoy trabajando?
-- Análisis de datos públicos en educación
-- Seguimiento y monitoreo de proyectos
-- Construcción y revisión de indicadores
-- Identificación de brechas territoriales
-- Visualización de información para toma de decisiones
-
----
-
-## Herramientas
-- R
-- Python
-- SQL
-- Excel
-- Git y GitHub
-
----
-
 ## Proyectos
 
 ### Conectividad para la Educación 2030 (en desarrollo)
